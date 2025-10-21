@@ -161,20 +161,18 @@ window_start          | window_end            | avg_fare | predicted_next_avg_fa
 ---
 
 ## Screenshots
-
-📸 **Task 4 – Real-Time Fare Prediction Output**
-📸 **Task 5 – Time-Based Fare Trend Output**
+**Task 4 – Real-Time Fare Prediction Output**
+**Task 5 – Time-Based Fare Trend Output**
 
 ---
 
 ## Submission Checklist
-
-✅ `data_generator.py` streams ride data in JSON format
-✅ `task4.py` trains and performs real-time fare prediction
-✅ `task5.py` trains and predicts fare trends over time windows
-✅ Models (`fare_model`, `fare_trend_model_v2`) saved successfully
-✅ Output logs (`outputs_task4.txt`, `outputs_task5.txt`) included
-✅ Screenshots and final README attached
+* `data_generator.py` streams ride data in JSON format
+*  `task4.py` trains and performs real-time fare prediction
+*  task5.py` trains and predicts fare trends over time windows
+*  Models (`fare_model`, `fare_trend_model_v2`) saved successfully
+*  Output logs (`outputs_task4.txt`, `outputs_task5.txt`) included
+Screenshots and final README attached
 
 ---
 
